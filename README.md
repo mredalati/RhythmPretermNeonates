@@ -8,5 +8,7 @@ DupleTripleRhythmMat.mat: subjects * frequencies (1,1.5,2,2.5,3 Hz, and averaged
 QuadrupleRhythmMat.mat: subjects * frequencies (0.75,1,1.25,1.5,1.75,2,2.25,2.5,2.75,3, and averaged of un-related frequencies)
 
 Phase: two cells for Duple\Triple Rhythm and Quadruple Rhythm
+
 Phase{1}: channels * subjects * frequencies (1,1.5,3 Hz)
+
 Phase{2}: channels * subjects * frequencies (0.75,3 Hz)
